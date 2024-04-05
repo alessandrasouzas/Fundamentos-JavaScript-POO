@@ -1,0 +1,4 @@
+. Paradigmas existentes
+    - Estrutural - possui apenas três estruturas: sequência, decisão e iteração (repetição) (c).
+    - Procedural - se baseia em procedimentos, que são executados numa sequência (cobol)
+    - Orientado a objetos - espelha o mundo real atraves de uma estrutura de objetos com caracteristicas(atributos) e ações(comportamento), que interagem uns com os outros (Java, Js)
